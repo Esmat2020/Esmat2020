@@ -1,7 +1,7 @@
+![ML](https://user-images.githubusercontent.com/60976246/236632846-f6a6f6c3-e146-45e9-992c-963b247c3325.jpeg)
 <h1 align="center">Hi 👋, I'm Abdelrahman Esmat</h1>
 <h3 align="center">Interested in Data Science & Analytics</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esmat2020&label=Profile%20views&color=0e75b6&style=flat" alt="esmat2020" /> </p>
+<img align="right" alt="trending" width="360" height="300" src="https://media1.giphy.com/media/t7sEnf5w7wJ1CEPyy7/giphy.gif?cid=ecf05e47uiw4t1q0i82h6hjnce9zpsxj7z9y5s9xefgpt2qu&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 - 🔭 currently working on [Item Recommendation System using Neural Network](https://github.com/Esmat2020/Movies-Recommender-System-using-Neural-Network)
 
